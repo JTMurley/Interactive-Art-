@@ -1,7 +1,7 @@
 # Interactive-Art/LCD Display
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/X1S5COBAmGx2Ax9Hon/giphy.gif">
+  <img width="460" height="300" src="https://giphy.com/embed/X1S5COBAmGx2Ax9Hon">
 </p>
 
 <iframe src="https://giphy.com/embed/X1S5COBAmGx2Ax9Hon" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/X1S5COBAmGx2Ax9Hon">via GIPHY</a></p>
