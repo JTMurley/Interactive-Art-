@@ -16,8 +16,8 @@ A large part of this project is the interactability it allows the user to have o
 - Z Key, stops the spawning of the grid effect
 - X Key, Re-enables the grid effect
 - P Key, Resets the canvas
-- + Key, Adds 1 line to the ball
-- - Key, Removes 1 line from the ball
+- Plus Key, Adds 1 line to the ball
+- Minus Key, Removes 1 line from the ball
 - 0 Key, Removes all lines from the ball
 - 1 Key, Randomises the balls color
 - 2 Key, Randomises the grids color
