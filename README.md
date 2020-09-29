@@ -28,3 +28,6 @@ A large part of this project is the interactability it allows the user to have o
 - 7 Key, Randomly changes the grid size from 1-200 nodes
 - 8 Key, Randomises the amount of lines around the circle from 0-255
 - 9 Key, Resets the ball back to its original 10 lines
+
+## How to Run The Program
+In order to run the program as you can see above in the gif, I have conveniently created a variety of .exe files for 90% of platforms. If you wish for a MAC OS .exe please contact me.
