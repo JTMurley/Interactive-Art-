@@ -30,4 +30,4 @@ A large part of this project is the interactability it allows the user to have o
 - 9 Key, Resets the ball back to its original 10 lines
 
 ## How to Run The Program
-In order to run the program as you can see above in the gif, I have conveniently created a variety of .exe files for 90% of platforms. If you wish for a MAC OS .exe please contact me.
+In order to run the program as you can see above in the gif, I have conveniently created a variety of .exe files for 90% of platforms.
